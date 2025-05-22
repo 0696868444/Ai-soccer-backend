@@ -5,21 +5,3 @@ sqlalchemy
 requests
 python-dotenv
 psycopg2-binary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Add requirements.txt for Render deployment
